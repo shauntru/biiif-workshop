@@ -1,0 +1,28 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://shauntru.github.io/biiif-workshop/collection/_cat/+tiles",
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4
+      ],
+      "width": 256
+    }
+  ],
+  "width": 1977,
+  "height": 1359
+}

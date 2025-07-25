@@ -1,0 +1,71 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://shauntru.github.io/biiif-workshop/collection/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://shauntru.github.io/biiif-workshop/collection/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://shauntru.github.io/biiif-workshop/collection/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://shauntru.github.io/biiif-workshop/collection/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://shauntru.github.io/biiif-workshop/collection/_cat/Cat-cats-40423034-1977-1359-3917341296.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_cat"
+                  ]
+                },
+                "width": 1977,
+                "height": 1359,
+                "service": [
+                  {
+                    "@id": "https://shauntru.github.io/biiif-workshop/collection/_cat/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://shauntru.github.io/biiif-workshop/collection/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_cat"
+        ]
+      },
+      "width": 1977,
+      "height": 1359,
+      "thumbnail": [
+        {
+          "id": "https://shauntru.github.io/biiif-workshop/collection/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "_cat"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://shauntru.github.io/biiif-workshop/collection/_cat/thumb.jpg",
+      "type": "Image"
+    }
+  ]
+}
