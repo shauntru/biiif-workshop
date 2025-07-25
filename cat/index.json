@@ -24,7 +24,7 @@
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "cat"
+                    "Abyssinian"
                   ]
                 },
                 "width": 1977,
@@ -44,9 +44,35 @@
       ],
       "label": {
         "@none": [
-          "cat"
+          "Abyssinian"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "Breed"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Abyssinian"
+            ]
+          }
+        },
+        {
+          "label": {
+            "@none": [
+              "Description"
+            ]
+          },
+          "value": {
+            "@none": [
+              "The Abyssinian is a slender, fine-boned, medium-sized cat. The head is moderately wedge shaped, with a slight break at the muzzle, and nose and chin ideally forming a straight vertical line when viewed in profile. They have alert, relatively large pointed ears. The notably expressive eyes are almond shaped and are gold, green, hazel or copper depending on coat color. The legs should be long in proportion to a graceful body, with small oval paws; the tail is likewise long and tapering. https://en.wikipedia.org/wiki/Abyssinian_cat"
+            ]
+          }
+        }
+      ],
       "width": 1977,
       "height": 1359,
       "thumbnail": [
@@ -59,9 +85,35 @@
   ],
   "label": {
     "@none": [
-      "cat"
+      "Abyssinian"
     ]
   },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "Breed"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Abyssinian"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@none": [
+          "Description"
+        ]
+      },
+      "value": {
+        "@none": [
+          "The Abyssinian is a slender, fine-boned, medium-sized cat. The head is moderately wedge shaped, with a slight break at the muzzle, and nose and chin ideally forming a straight vertical line when viewed in profile. They have alert, relatively large pointed ears. The notably expressive eyes are almond shaped and are gold, green, hazel or copper depending on coat color. The legs should be long in proportion to a graceful body, with small oval paws; the tail is likewise long and tapering. https://en.wikipedia.org/wiki/Abyssinian_cat"
+        ]
+      }
+    }
+  ],
   "thumbnail": [
     {
       "id": "https://shauntru.github.io/biiif-workshop/cat/thumb.jpg",
