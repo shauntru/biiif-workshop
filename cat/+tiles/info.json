@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://shauntru.github.io/biiif-workshop/collection/_cat/+tiles",
+  "@id": "https://shauntru.github.io/biiif-workshop/cat//+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
