@@ -51,7 +51,7 @@
       "height": 1359,
       "thumbnail": [
         {
-          "id": "https://shauntru.github.io/biiif-workshop/collection/thumb.jpg",
+          "id": "https://shauntru.github.io/biiif-workshop/collection/_cat/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -59,13 +59,7 @@
   ],
   "label": {
     "@none": [
-      "_cat"
+      "collection"
     ]
-  },
-  "thumbnail": [
-    {
-      "id": "https://shauntru.github.io/biiif-workshop/collection/_cat/thumb.jpg",
-      "type": "Image"
-    }
-  ]
+  }
 }
